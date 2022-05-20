@@ -1,6 +1,6 @@
 # Test_technique-volkeno
 
-Installation librairie
+Installation librairies
 
 brew remove portaudio
 
